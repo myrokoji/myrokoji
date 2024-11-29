@@ -4,4 +4,6 @@
 - 📫 How to reach me: discord - myrokoji | email: jordan@renownstudios.net
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a minecrafter :)
+- 👾 My favourite video game: Legend Of Zleda: BOTW
+
 
