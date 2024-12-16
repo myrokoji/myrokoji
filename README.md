@@ -4,5 +4,5 @@
 - 📫 How to reach me: discord - myrokoji | email: jordan@renownstudios.net
 - ⚡ Fun fact: I'm a minecrafter :)
 - 👾 My favourite video game: Legend Of Zelda: BOTW
-- ❓ Who I am IRL: My name is Jordan and I am currently 15
+- ❓ Who I am IRL: My name is Jordan and I am currently 15 :)
 
