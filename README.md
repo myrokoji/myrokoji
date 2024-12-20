@@ -1,8 +1,8 @@
 <html>
-# 📱 Who am i: 
+📱 Who am i: 
 Hi, I'm Jordan, I am a Web developer and C language enthusiast. I am a minecraft player and a BOTW fanatic 
 
-# ❓ How to reach me:
+❓ How to reach me:
 dsc: myrokoji
 email:jordan@renownstudio.net
 
