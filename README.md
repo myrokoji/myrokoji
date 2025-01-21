@@ -5,8 +5,7 @@ Hi, I'm Jordan, I am a Web developer and C language enthusiast. I am a minecraft
 ❓ How to reach me:
 dsc: myrokoji
 email: jordan@renownstudio.net
-
-⚒️ What I'm working on right now
+⚒️ What I'm working on right now:
 Renown Studios Landing Page
 
 # 💻 Tech Stack:
